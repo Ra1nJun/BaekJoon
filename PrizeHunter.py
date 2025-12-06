@@ -1,4 +1,4 @@
-# 15953 - 상금 헌터
+# 15953 - 상금 헌터 - bronze 3
 T = input()
 
 for _ in range(int(T)):
