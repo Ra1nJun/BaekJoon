@@ -1,5 +1,5 @@
 # 16236 - 아기 상어 - gold 3
-# AI 도움 받음 - 먹을 물고기 찾는 로직의 위치
+# AI 도움 받음 : 먹을 물고기 찾는 로직의 위치
 import sys
 from collections import deque
 
